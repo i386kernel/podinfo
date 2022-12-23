@@ -21,3 +21,5 @@ gcloud/
 dist/
 bin/
 cue/cue.mod/gen/
+
+/kustomize/hpa.yaml
